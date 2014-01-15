@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://Sawasawato.github.io
+title: さわさわと
+subtitle: パソコンのパの字もわかりません。でもゾウさんは好きです。
+author: Sawasawato
 simple_search: http://google.com/search
-description:
+description: 過去を残す業界から新しい未来を作る業界へと転身
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
